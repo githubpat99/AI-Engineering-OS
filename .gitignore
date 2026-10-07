@@ -1,0 +1,54 @@
+# Eigenständige Git-Repositories
+AI-Consulting-OS/
+AI-Engineering-OS/
+AI-Private-OS/
+
+# Lokale Backups
+.ai-os-backups/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# VS Code / lokale Editor-Einstellungen
+.vscode/
+.idea/
+
+# Temporäre Dateien
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Lokale Environment-Dateien / Secrets
+.env
+.env.*
+!.env.example
+
+# Office-Temporärdateien
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Optional: lokale Cache-Dateien
+.cache/
+tmp/
+temp/
